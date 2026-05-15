@@ -33,8 +33,10 @@ Soy desarrollador de software, enfocado en crear herramientas multiplataforma y 
 
 ### Estadísticas de GitHub
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=JuEnPeHa&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/JuEnPeHa)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JuEnPeHa&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/JuEnPeHa)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuEnPeHa&show_icons=true&theme=highcontrast&hide_border=true" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuEnPeHa&layout=compact&theme=highcontrast&hide_border=true" height="150" alt="Lenguajes Principales" />
+</div>
 
 ---
 [LinkedIn](https://www.linkedin.com/in/juanenriqueph/) | [GitHub](https://github.com/JuEnPeHa/)
