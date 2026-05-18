@@ -34,6 +34,8 @@ Soy desarrollador de software, enfocado en crear herramientas multiplataforma y 
 
 | Proyecto / Guía | Enlace |
 | :--- | :--- |
+| **Conferencia:** Desbloquea el poder de la concurrencia en Flutter (Isolates & Async) | GDG Cancún (YouTube) | [Ver Charla](https://www.youtube.com/watch?v=oxpHK_lsesM) |
+| **Guía:** NEAR x Flutter - Integración Web3 en aplicaciones móviles | Learn NEAR Club | [Leer Guía](https://learnnear.club/es/near-x-flutter-hola-match-guide/) |
 | Fundamentos de Solidity para EVM | [Medium](https://neares.medium.com/qu%C3%A9-es-y-c%C3%B3mo-funciona-solidity-para-evm-9c0fa3cd8df6) |
 | Creación del primer Smart Contract | [Medium](https://neares.medium.com/solidity-creando-tu-primer-smart-contract-16bae20f40a3) |
 | Deploy y Testing unitario | [Medium](https://neares.medium.com/solidity-parte-3-hacer-deploy-y-testing-b5d28fe13723) |
