@@ -30,13 +30,15 @@ Soy desarrollador de software, enfocado en crear herramientas multiplataforma y 
 - **Hardware Modding & Mecatrónica:** Diseño y manufactura aditiva de componentes funcionales para sistemas de enfriamiento en servidores y proyectos con placas ESP32.
 
 ---
+### Publicaciones Técnicas y Contribuciones
 
-### Estadísticas de GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuEnPeHa&show_icons=true&theme=highcontrast&hide_border=true" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuEnPeHa&layout=compact&theme=highcontrast&hide_border=true" height="150" alt="Lenguajes Principales" />
-</div>
-
+| Proyecto / Guía | Enlace |
+| :--- | :--- |
+| Fundamentos de Solidity para EVM | [Medium](https://neares.medium.com/qu%C3%A9-es-y-c%C3%B3mo-funciona-solidity-para-evm-9c0fa3cd8df6) |
+| Creación del primer Smart Contract | [Medium](https://neares.medium.com/solidity-creando-tu-primer-smart-contract-16bae20f40a3) |
+| Deploy y Testing unitario | [Medium](https://neares.medium.com/solidity-parte-3-hacer-deploy-y-testing-b5d28fe13723) |
+| Guía de BitKeep Wallet | [Medium](https://neares.medium.com/qu%C3%A9-es-y-como-crear-bitkeep-wallet-30f82eeba90f) |
+| Tutorial NFT Histopian | [Medium](https://neares.medium.com/mintea-tu-histopian-nft-gratis-tutorial-paso-a-paso-817bfd0395c1) |
+| Guía Aurora en WooFi DEX | [Medium](https://neares.medium.com/aurora-es-uno-de-los-primeros-tokens-disponibles-para-operar-en-woofi-dex-cc5c047a2f13) |
 ---
 [LinkedIn](https://www.linkedin.com/in/juanenriqueph/) | [GitHub](https://github.com/JuEnPeHa/)
